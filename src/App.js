@@ -7,7 +7,8 @@ import Home from './components/Home';
 import CreateGroup from './components/CreateGroup';
 import JoinGroup from './components/JoinGroup';
 import Wishlist from './components/Wishlist';
-
+import AdditionalFeatures from './components/additional-features';  
+import Footer from './components/footer';
 const theme = createTheme({
   components: {
     MuiButton: {
