@@ -5,7 +5,7 @@ import { ThemeProvider, createTheme } from '@mui/material';
 import styled from 'styled-components';
 import Home from './components/Home';
 import CreateGroup from './components/CreateGroup';
-import JoinGroup from './components/JoinGroup';
+import JoinGroup from './components/joinGroup';
 import Wishlist from './components/Wishlist';
 
 const theme = createTheme({
