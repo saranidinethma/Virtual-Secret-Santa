@@ -52,6 +52,7 @@ const FeatureCard = styled(motion.div)`
   background: white;
   padding: 2rem;
   border-radius: 15px;
+  border-color:darkgreen;
   margin: 1rem;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   text-align: center;
